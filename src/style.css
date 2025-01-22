@@ -1,0 +1,8 @@
+.ranking {
+  background: #000;
+  width: 100%;
+  height: 10px;
+  position: absolute;
+  content: "";
+  top: 0;
+}
